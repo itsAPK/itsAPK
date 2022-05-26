@@ -1,1 +1,2 @@
-![](https://gitwar.herokuapp.com/badge?username=itsAPK)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAPK&show_icons=true)
+
