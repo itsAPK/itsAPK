@@ -4,8 +4,8 @@
 </h2>
   <h2>Proficiencies</h2>
  <div class="flex">
-    <div algin="left">
-           <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&theme=dark" width="180"/>
-    </div>
+    <p algin="center">
+           <img src="https://skillicons.dev/icons?i=py,kubernetes,docker,c,vim&theme=dark" width="180"/>
+    </p>
 <img align="right" alt="GIF" src="https://media.tenor.com/wyi8Ow2YP6UAAAAd/maja-aaya.gif" width=450 class="magrin-top: -5px" />
     </div>
