@@ -2,6 +2,7 @@
   <span>Yo..🤘🏼<span> 
 
 </h2>
+  <h2>Proficiencies</h2>
  <div algin="left">
     <p >
            <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" width="150"/>
