@@ -28,7 +28,7 @@
 
 ###
 
-<h6 align="left">I'm APK from India 🇮🇳<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Elixir and how fix my sleep cycle<br>- ⚡ In my free time I sleep</h6>
+<h6 align="left">I'm APK from India 🇮🇳<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Elixir and how fix my sleep cycle<br>- ⚡ In my free time I sleep or I do shitposting</h6>
 
 ###
 
