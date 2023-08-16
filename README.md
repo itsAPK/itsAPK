@@ -14,6 +14,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=itsAPK.itsAPK&"  />
+  <a href="https://wakatime.com/@8ab3e8d6-3d92-43e1-b387-b2a10e168e23"><img src="https://wakatime.com/badge/user/8ab3e8d6-3d92-43e1-b387-b2a10e168e23.svg" alt="Total time coded since Nov 7 2021" /></a>
 </div>
 
 ###
