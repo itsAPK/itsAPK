@@ -120,7 +120,14 @@
 <div align="center">
  
   <img src="https://streak-stats.demolab.com?user=itsAPK&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+
+
+  <a href="https://wakatime.com/@itsAPK" target="_blank">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=itsAPK&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
 </div>
+
+
 
 ###
 <h3 align="left">  🎧 </h3>
