@@ -146,7 +146,6 @@
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31nyfu44k44mywjelojy63wsodka&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
 
 <br clear="both">
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="itsapk" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee " data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 </div>
 
