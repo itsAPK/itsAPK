@@ -83,6 +83,8 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="26" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="26" alt="nestjs logo"  />
+	  <img width="12" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=%23ffffff" height="26" alt="larvael logo"  />
 </div>
 
 ###
