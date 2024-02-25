@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="26" alt="rust logo"  />
 <img width="12" />
-  <img src="https://img.shields.io/badge/Php-000000?logo=php&logoColor=white&style=for-the-badge" height="26" alt="rust logo"  />
+  <img src="https://img.shields.io/badge/PHP-000001?style=for-the-badge&logo=php&logoColor=%23FFFFFF&color=%23777BB4" height="26" alt="php logo"  />
 </div>
 
 ###
