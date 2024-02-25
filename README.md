@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="26" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="26" alt="rust logo"  />
+<img width="12" />
+  <img src="https://img.shields.io/badge/Php-000000?logo=php&logoColor=white&style=for-the-badge" height="26" alt="rust logo"  />
 </div>
 
 ###
