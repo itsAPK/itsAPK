@@ -16,10 +16,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=itsAPK.itsAPK&"  />
   <img src="https://wakatime.com/badge/user/8ab3e8d6-3d92-43e1-b387-b2a10e168e23.svg" alt="Total time coded since Nov 7 2021" />
 </div>
-<div align="center" style="margin-top : 4px;">
-<img src="https://www.codewars.com/users/itsAPK/badges/micro"/>
-	
-</div>
+
 
 ###
 
