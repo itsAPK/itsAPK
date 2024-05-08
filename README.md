@@ -129,7 +129,7 @@
 
  
 </div>
-<div align="center">
+<div align="center" style="margin-top : 4px;">
 <img src="https://www.codewars.com/users/itsAPK/badges/large"/>
 	
 </div>
