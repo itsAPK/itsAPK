@@ -118,29 +118,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=itsAPK&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
-
-
- 
-</div>
 
 
 
-###
-<div align="left">
-<h3 align="left">  🎧 </h3>
-
-###
 
 
- 
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31nyfu44k44mywjelojy63wsodka&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+
 
 <br clear="both">
 
