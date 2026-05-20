@@ -121,14 +121,6 @@ const apk = {
 
 ---
 
-## 🐍 Watch the snake eat my contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itsAPK/itsAPK/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
----
-
 ## 📈 A Day in the Life
 
 <div align="center">
