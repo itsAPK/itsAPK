@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7qDQ5iw1oXyDeJAI/giphy.gif" width="500" alt="header gif"/>
-
 # yooo 👋, I'm APK(^_-) 🚨 :(
 
 ### *Full-stack dev by day, professional sleep procrastinator by night*
