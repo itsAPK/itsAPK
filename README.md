@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Hey,%20I'm%20APK&fontSize=62&fontAlignY=36&desc=Full-stack%20dev%20by%20day%20•%20Professional%20sleep%20procrastinator%20by%20night&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
-</div>
-
-<div align="center">
   <img height="150" src="https://media.giphy.com/media/3o7qDDquZ5Yi4ZlJ4I/giphy.gif" alt="coding gif"/>
 </div>
 
