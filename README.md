@@ -7,7 +7,7 @@
 <h3 align="center"><i>I build it, ship it, host it, secure it and keep it alive — from pixels to packets.</i></h3>
 <div align="center">
   <a href="https://github.com/itsAPK">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Pixels+to+packets%2C+I+handle+it+all+%F0%9F%9A%80;Frontend+%C2%B7+Backend+%C2%B7+DevOps+%C2%B7+Networking;I+keep+your+servers+alive+(and+me+awake)+%E2%9A%99%EF%B8%8F;I+test+in+production.+Bravely.+%F0%9F%9A%A8;It's+not+a+bug%2C+it's+an+undocumented+feature;Currently+learning+Elixir+%F0%9F%A7%AA;Trying+to+fix+my+sleep+cycle+(failing)+%F0%9F%98%B4" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Pixels+to+packets%2C+I+handle+it+all+%F0%9F%9A%80;I+keep+your+servers+alive+(and+me+awake)+%E2%9A%99%EF%B8%8F;I+test+in+production.+Bravely.+%F0%9F%9A%A8;It's+not+a+bug%2C+it's+an+undocumented+feature;Currently+learning+Elixir+%F0%9F%A7%AA;Trying+to+fix+my+sleep+cycle+(failing)+%F0%9F%98%B4" alt="typing"/>
   </a>
 </div>
 
@@ -38,7 +38,7 @@
 const apk = {
   pronouns: "he" | "him",
   location: "India 🇮🇳",
-  role: "Pixels-to-Packets Engineer (Frontend · Backend · DevOps · Networking)",
+  role: "Pixels-to-Packets Engineer",
   superpower: "Keeping servers alive at 3am",
   currentlyLearning: [
     "Elixir",
