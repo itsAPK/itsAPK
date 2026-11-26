@@ -1,117 +1,132 @@
+<!-- ═══════════════════════ BANNER ═══════════════════════ -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/3o7qDDquZ5Yi4ZlJ4I/giphy.gif"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Hey,%20I'm%20APK&fontSize=62&fontAlignY=36&desc=Full-stack%20dev%20by%20day%20•%20Professional%20sleep%20procrastinator%20by%20night&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
 </div>
 
+<!-- ═══════════════════════ GIF (kept) ═══════════════════════ -->
 <div align="center">
+  <img height="150" src="https://media.giphy.com/media/3o7qDDquZ5Yi4ZlJ4I/giphy.gif" alt="coding gif"/>
+</div>
 
-# yooo 👋, I'm APK(^_-) 🚨 :(
+<!-- ═══════════════════════ TYPING ═══════════════════════ -->
+<div align="center">
+  <a href="https://github.com/itsAPK">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Freelance+Developer+%F0%9F%9A%80;I+test+in+production.+Bravely.+%F0%9F%9A%A8;It's+not+a+bug%2C+it's+an+undocumented+feature;Currently+learning+Elixir+%F0%9F%A7%AA;Trying+to+fix+my+sleep+cycle+(failing)+%F0%9F%98%B4" alt="typing"/>
+  </a>
+</div>
 
-### *Full-stack dev by day, professional sleep procrastinator by night*
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/itsapk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://twitter.com/its_APK"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
+  <a href="https://github.com/itsAPK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/itsapk/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin"/></a>
-  <a href="https://twitter.com/its_APK"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="twitter"/></a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=itsAPK.itsAPK&" alt="visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=itsAPK.itsAPK&left_color=%236d28d9&right_color=%23a78bfa" alt="visitors"/>
   <img src="https://wakatime.com/badge/user/8ab3e8d6-3d92-43e1-b387-b2a10e168e23.svg" alt="wakatime"/>
-  <img src="https://img.shields.io/github/followers/itsAPK?label=Followers&style=flat&color=blueviolet" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/itsAPK?label=Stars&style=flat&color=yellow" alt="stars"/>
+  <img src="https://img.shields.io/github/followers/itsAPK?label=Followers&style=flat-square&color=a78bfa" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/itsAPK?label=Stars&style=flat-square&color=facc15" alt="stars"/>
 </p>
-
-</div>
 
 ---
 
-## 👨‍💻 About Me (^ -)
+## 👨‍💻 &nbsp;About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```typescript
 const apk = {
   pronouns: "he" | "him",
   location: "India 🇮🇳",
   role: "Full-Stack Freelance Developer",
-  currentlyLearning: ["Elixir", "how to fix my sleep cycle"],
-  hobbies: ["sleeping", "shitposting", "more sleeping"],
-  askMeAbout: ["webdev", "why my code worked yesterday but not today"],
-  funFact: "I don't always test my code, but when I do, I do it in production 🚨",
+  currentlyLearning: [
+    "Elixir",
+    "how to fix my sleep cycle",
+  ],
+  hobbies: [
+    "sleeping",
+    "shitposting",
+    "more sleeping",
+  ],
+  askMeAbout: [
+    "webdev",
+    "why my code worked yesterday",
+    "but not today",
+  ],
+  funFact: "I test in production 🚨",
 };
 ```
 
-> *"It's not a bug, it's an undocumented feature"* — me, before pushing to main at 3am :(
+</td>
+<td width="45%" valign="top">
+
+### ⚡ Quick facts
+
+- 🔭 Building full-stack apps for clients worldwide
+- 🌱 Learning **Elixir** (and sleep hygiene)
+- 💬 Ask me about **web dev**, APIs & scaling
+- 🐛 Fixing bugs I introduced yesterday
+- 🌙 Most productive after 11 PM
+- ⭐ Will happily review your PR (after a nap)
+
+</td>
+</tr>
+</table>
+
+> 💭 *"It's not a bug, it's an undocumented feature."* — me, before pushing to main at 3am
 
 ---
 
-## 🛠 The Arsenal
-
-### 🧪 Languages — *the ones I argue with daily*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="ts"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="py"/>
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" alt="rust"/>
-  <img src="https://img.shields.io/badge/PHP-000001?style=for-the-badge&logo=php&logoColor=%23FFFFFF&color=%23777BB4" alt="php"/>
-  <img src="https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white&style=for-the-badge" alt="elixir"/>
-</p>
-
-### ⚛️ Frameworks — *the ones I cry over*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" alt="vue"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="nextjs"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=black&style=for-the-badge" alt="nuxt"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="fastapi"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="express"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="node"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="nest"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=%23ffffff" alt="laravel"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" alt="tw"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bs"/>
-</p>
-
-### 🗄️ Databases — *where my data hides from me*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="pg"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongo"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="redis"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=black&style=for-the-badge" alt="rmq"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" alt="supabase"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="firebase"/>
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white&style=for-the-badge" alt="neo4j"/>
-</p>
-
-> *and a few other tools I pretend to understand*
-
----
-
-## 📊 The Numbers Don't Lie (but my commits do)
+## 🛠 &nbsp;The Arsenal
 
 <div align="center">
 
-<a href="https://github.com/itsAPK">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAPK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAPK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</a>
+**🧪 Languages** — *the ones I argue with daily*
 
-<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,rust,php,elixir&perline=6" alt="languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAPK&theme=tokyonight&hide_border=true" alt="streak"/>
+<br/><br/>
 
-<br/>
+**⚛️ Frameworks** — *the ones I cry over*
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsAPK&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%"/>
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxt,nodejs,express,nestjs,django,flask,fastapi,laravel,tailwind,bootstrap&perline=13" alt="frameworks"/>
+
+<br/><br/>
+
+**🗄️ Databases & Infra** — *where my data hides from me*
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,supabase,firebase,neo4j&perline=8" alt="databases"/>
+
+<sub>…and a few other tools I pretend to understand</sub>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies — *participation awards count too*
+## 📊 &nbsp;The Numbers Don't Lie *(but my commits do)*
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=itsAPK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAPK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=itsAPK&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsAPK&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 &nbsp;Trophies — *participation awards count too*
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=itsAPK&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
@@ -119,19 +134,19 @@ const apk = {
 
 ---
 
-## 📈 A Day in the Life
+## 📈 &nbsp;A Day in the Life
 
 <div align="center">
 
-| 🕐 Time | 📋 Activity |
-|:---:|:---|
-| 9:00 AM | "I'll start early today" 😤 |
-| 11:00 AM | Actually wakes up :( |
-| 12:00 PM | Stares at code, blames the framework |
-| 3:00 PM | Stack Overflow gives me hope |
-| 6:00 PM | Stack Overflow takes it back 🚨 |
-| 11:00 PM | Productivity arc begins |
-| 4:00 AM | Ships to prod, hopes for the best (^_-) |
+| 🕐 Time | 📋 Activity | 😴 Energy |
+|:---:|:---|:---:|
+| 9:00 AM | "I'll start early today" 😤 | ▓▓▓▓▓ |
+| 11:00 AM | Actually wakes up | ▓▓░░░ |
+| 12:00 PM | Stares at code, blames the framework | ▓▓▓░░ |
+| 3:00 PM | Stack Overflow gives me hope | ▓▓▓▓░ |
+| 6:00 PM | Stack Overflow takes it back 🚨 | ▓░░░░ |
+| 11:00 PM | Productivity arc begins 🚀 | ▓▓▓▓▓ |
+| 4:00 AM | Ships to prod, hopes for the best 🙏 | ▓▓▓▓▓ |
 
 </div>
 
@@ -139,8 +154,12 @@ const apk = {
 
 <div align="center">
 
-### *"Sleep is just a low-power mode for humans. I'm optimizing." — APK*
+### *"Sleep is just a low-power mode for humans. I'm optimizing."* — APK
 
-<sub>If you scrolled this far, you're contractually obligated to ⭐ a repo. I don't make the rules. (^_-)</sub>
+<sub>If you scrolled this far, you're contractually obligated to ⭐ a repo. I don't make the rules.</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
