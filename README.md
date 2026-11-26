@@ -1,165 +1,69 @@
-<!-- ═══════════════════════ BANNER ═══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Hey,%20I'm%20APK&fontSize=62&fontAlignY=36&desc=Full-stack%20dev%20by%20day%20•%20Professional%20sleep%20procrastinator%20by%20night&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
+  <img height="150" src="https://media.giphy.com/media/3o7qDDquZ5Yi4ZlJ4I/giphy.gif" alt=""/>
 </div>
 
-<!-- ═══════════════════════ GIF (kept) ═══════════════════════ -->
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/3o7qDDquZ5Yi4ZlJ4I/giphy.gif" alt="coding gif"/>
-</div>
+<h1 align="center">apk</h1>
 
-<!-- ═══════════════════════ TYPING ═══════════════════════ -->
-<div align="center">
-  <a href="https://github.com/itsAPK">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Freelance+Developer+%F0%9F%9A%80;I+test+in+production.+Bravely.+%F0%9F%9A%A8;It's+not+a+bug%2C+it's+an+undocumented+feature;Currently+learning+Elixir+%F0%9F%A7%AA;Trying+to+fix+my+sleep+cycle+(failing)+%F0%9F%98%B4" alt="typing"/>
-  </a>
-</div>
+<p align="center">
+  full-stack dev by day, professional sleep procrastinator by night.<br/>
+  freelancing from india. currently learning elixir and, allegedly, how to sleep.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/itsapk/">linkedin</a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/its_APK">twitter</a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=itsAPK.itsAPK&left_color=%23222&right_color=%23888" alt=""/>
+  <img src="https://wakatime.com/badge/user/8ab3e8d6-3d92-43e1-b387-b2a10e168e23.svg" alt=""/>
+  <img src="https://img.shields.io/github/followers/itsAPK?label=followers&style=flat&color=222&labelColor=888" alt=""/>
+</p>
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/itsapk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://twitter.com/its_APK"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-  <a href="https://github.com/itsAPK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-</div>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=itsAPK.itsAPK&left_color=%236d28d9&right_color=%23a78bfa" alt="visitors"/>
-  <img src="https://wakatime.com/badge/user/8ab3e8d6-3d92-43e1-b387-b2a10e168e23.svg" alt="wakatime"/>
-  <img src="https://img.shields.io/github/followers/itsAPK?label=Followers&style=flat-square&color=a78bfa" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/itsAPK?label=Stars&style=flat-square&color=facc15" alt="stars"/>
-</p>
-
----
-
-## 👨‍💻 &nbsp;About Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```typescript
+```ts
 const apk = {
-  pronouns: "he" | "him",
-  location: "India 🇮🇳",
+  pronouns: "he/him",
+  location: "India",
   role: "Full-Stack Freelance Developer",
-  currentlyLearning: [
-    "Elixir",
-    "how to fix my sleep cycle",
-  ],
-  hobbies: [
-    "sleeping",
-    "shitposting",
-    "more sleeping",
-  ],
-  askMeAbout: [
-    "webdev",
-    "why my code worked yesterday",
-    "but not today",
-  ],
-  funFact: "I test in production 🚨",
+  currentlyLearning: ["Elixir", "how to fix my sleep cycle"],
+  hobbies: ["sleeping", "shitposting", "more sleeping"],
+  askMeAbout: ["webdev", "why my code worked yesterday but not today"],
+  funFact: "I don't always test my code, but when I do, I do it in production",
 };
 ```
 
-</td>
-<td width="45%" valign="top">
-
-### ⚡ Quick facts
-
-- 🔭 Building full-stack apps for clients worldwide
-- 🌱 Learning **Elixir** (and sleep hygiene)
-- 💬 Ask me about **web dev**, APIs & scaling
-- 🐛 Fixing bugs I introduced yesterday
-- 🌙 Most productive after 11 PM
-- ⭐ Will happily review your PR (after a nap)
-
-</td>
-</tr>
-</table>
-
-> 💭 *"It's not a bug, it's an undocumented feature."* — me, before pushing to main at 3am
-
----
-
-## 🛠 &nbsp;The Arsenal
-
-<div align="center">
-
-**🧪 Languages** — *the ones I argue with daily*
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,rust,php,elixir&perline=6" alt="languages"/>
-
-<br/><br/>
-
-**⚛️ Frameworks** — *the ones I cry over*
-
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxt,nodejs,express,nestjs,django,flask,fastapi,laravel,tailwind,bootstrap&perline=13" alt="frameworks"/>
-
-<br/><br/>
-
-**🗄️ Databases & Infra** — *where my data hides from me*
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,supabase,firebase,neo4j&perline=8" alt="databases"/>
-
-<sub>…and a few other tools I pretend to understand</sub>
-
-</div>
-
----
-
-## 📊 &nbsp;The Numbers Don't Lie *(but my commits do)*
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=itsAPK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAPK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+> "it's not a bug, it's an undocumented feature" — me, before pushing to main at 3am
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=itsAPK&theme=tokyonight&hide_border=true" alt="streak"/>
+### what i work with
+
+**languages** &nbsp; JavaScript, TypeScript, Python, Rust, PHP, Elixir (learning)<br/>
+**frontend** &nbsp; React, Next.js, Vue, Nuxt, Tailwind, Bootstrap<br/>
+**backend** &nbsp; Node, Express, NestJS, FastAPI, Django, Flask, Laravel<br/>
+**data** &nbsp; PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Supabase, Firebase, Neo4j
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsAPK&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%"/>
+### a typical day
 
-</div>
-
----
-
-## 🏆 &nbsp;Trophies — *participation awards count too*
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsAPK&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-</div>
-
----
-
-## 📈 &nbsp;A Day in the Life
-
-<div align="center">
-
-| 🕐 Time | 📋 Activity | 😴 Energy |
-|:---:|:---|:---:|
-| 9:00 AM | "I'll start early today" 😤 | ▓▓▓▓▓ |
-| 11:00 AM | Actually wakes up | ▓▓░░░ |
-| 12:00 PM | Stares at code, blames the framework | ▓▓▓░░ |
-| 3:00 PM | Stack Overflow gives me hope | ▓▓▓▓░ |
-| 6:00 PM | Stack Overflow takes it back 🚨 | ▓░░░░ |
-| 11:00 PM | Productivity arc begins 🚀 | ▓▓▓▓▓ |
-| 4:00 AM | Ships to prod, hopes for the best 🙏 | ▓▓▓▓▓ |
-
-</div>
-
----
-
-<div align="center">
-
-### *"Sleep is just a low-power mode for humans. I'm optimizing."* — APK
-
-<sub>If you scrolled this far, you're contractually obligated to ⭐ a repo. I don't make the rules.</sub>
+```
+09:00  "i'll start early today"
+11:00  actually wakes up
+12:00  stares at code, blames the framework
+15:00  stack overflow gives me hope
+18:00  stack overflow takes it back
+23:00  productivity arc begins
+04:00  ships to prod, hopes for the best
+```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsAPK&show_icons=true&theme=transparent&title_color=888&icon_color=888&text_color=888&include_all_commits=true&count_private=true&hide_border=true" alt=""/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAPK&layout=compact&theme=transparent&title_color=888&text_color=888&hide_border=true&langs_count=8" alt=""/>
+</p>
 
-</div>
+<p align="center"><sub>if you scrolled this far, you owe a star to some repo. i don't make the rules.</sub></p>****
